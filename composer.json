@@ -31,14 +31,6 @@
             "Vendor\\OmniChat\\": ""
         }
     },
-    "extra": {
-        "map": [
-            [
-                "*",
-                "Vendor/OmniChat"
-            ]
-        ]
-    },
     "minimum-stability": "stable",
     "prefer-stable": true
 }
